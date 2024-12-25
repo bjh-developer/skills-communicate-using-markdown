@@ -1,2 +1,2 @@
 # this is me!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat for fun](https://octodex.github.com/images/yaktocat.png)
